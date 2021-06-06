@@ -8,7 +8,7 @@ install dependencies first
 
 then run the django project
 
->>>cd pls
+>>>cd pls <br />
 >>>python manage.py runserver
 
 ### Documentation
