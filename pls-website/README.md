@@ -1,5 +1,16 @@
 # pls
 
+### Instructions to run
+
+install dependencies first
+
+>>>pip install -r requirements.txt
+
+then run the django project
+
+>>>cd pls <br />
+>>>python manage.py runserver
+
 ### Documentation
 
 1. home is the main app
