@@ -4,8 +4,8 @@
 
 ### Purpose of Repo Creation
 * This repo was used during Phase I for temporary web hosting and was created by Anirudh
- * website - https://github.com/anirudhambati/pls
- * app - https://github.com/stoic-signs/PLS_Flutter
+   * website - https://github.com/anirudhambati/pls
+   * app - https://github.com/stoic-signs/PLS_Flutter
 
 * My contribution can be found in the repo - [IBM-Learning-Style-Determination](https://github.com/trishasarkar/IBM-Learning-Style-Determination).
 
